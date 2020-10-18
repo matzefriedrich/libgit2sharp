@@ -13,8 +13,11 @@ Thumbs.db
 *_p.c
 *.ncb
 *.suo
+
 .vs/
+.idea/
 *.sln.ide/
+
 *.tlb
 *.tlh
 *.bak
@@ -25,18 +28,25 @@ Thumbs.db
 [Dd]ebug*/
 *.lib
 *.sbr
+
 obj/
+bin/
+
 [Rr]elease*/
 _ReSharper*/
 *.ReSharper
 *.ReSharper.user
+
 [Tt]est[Rr]esult*
 [bB]uild/
+
 *.pidb
 *.userprefs
 *.swp
 *.DotSettings
+*.sln.DotSettings
 
 _NCrunch_LibGit2Sharp/
 packages/
 worktree.playlist
+
